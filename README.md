@@ -49,11 +49,11 @@ Here are some of the technologies and tools I'm proficient in:
 
 ## 🔥 GitHub Stats 📈
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushij&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushi-c247&show_icons=true&theme=radical)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aayushij&theme=dark&background=000000)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aayushi-c247&theme=dark&background=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushij&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushi-c247&layout=compact&theme=vision-friendly-dark)
 
 ## Let's Connect 📫
 I'm always open to collaborating on exciting projects or discussing technology. Feel free to connect with me
