@@ -41,7 +41,7 @@ Here are some of the technologies and tools I'm proficient in:
 - Others: RESTful APIs, GraphQL, Socket, Microservices, Redis
 
 ## Experience 👨‍💻
-- **Lead Software Engineer** at [Chapter247 Infotech](https://www.chapter247.com/) (2018-Present)
+- **Senior Software Engineer** at [Chapter247 Infotech](https://www.chapter247.com/)
    - Developed and maintained scalable web applications using React and NodeJS.
    - Collaborated with cross-functional teams to deliver high-quality software solutions.
    - Managing a team of more than 10 people.
@@ -58,7 +58,6 @@ Here are some of the technologies and tools I'm proficient in:
 ## Let's Connect 📫
 I'm always open to collaborating on exciting projects or discussing technology. Feel free to connect with me
 
-- LinkedIn: [Aayushi Jain](https://www.linkedin.com/in/aayushi-jain-a60832126)
 - Case Studies: [Chapter247](https://www.chapter247.com/case-studies/)
 - Email: aayushi.j@chapter247.com
 
